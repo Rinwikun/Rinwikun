@@ -33,7 +33,7 @@ A passionate developer and student who loves diving into low-level tweaks, softw
 
 | My Core Stats | Top Coding Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Rinwikun&show_icons=true&theme=tokyonight&count_private=true" width="420"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinwikun&layout=compact&theme=tokyonight" width="420"> |
+| <img src="https://github-readme-stats-fast.vercel.app/api?username=Rinwikun&show_icons=true&theme=tokyonight&count_private=true" width="420" alt="Rinwi Stats"> | <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rinwikun&layout=compact&theme=tokyonight" width="420" alt="Rinwi Languages"> |
 
 <br>
 
