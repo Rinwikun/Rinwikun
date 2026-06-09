@@ -29,7 +29,6 @@ A passionate developer and student who loves diving into low-level tweaks, softw
 ---
 
 ## 📊 GitHub Status & Activity
-Agar profil kamu terlihat hidup, metrik aktivitas ini akan otomatis diperbarui oleh sistem setiap hari:
 
 | My Core Stats | Top Coding Languages |
 | :---: | :---: |
