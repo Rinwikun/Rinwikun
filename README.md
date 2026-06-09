@@ -24,7 +24,8 @@ A passionate developer and student who loves diving into low-level tweaks, softw
 
 ## 🌟 Featured Projects
 
-* 📦 **[Arch-Minecraft-GPU-Fix](https://github.com/Rinwikun/Arch-Minecraft-GPU-Fix)** - Production-grade solution to force Minecraft to leverage discrete NVIDIA GPUs under Wayland without breaking XDG specifications.
+* **[Arch-Minecraft-GPU-Fix](https://github.com/Rinwikun/Arch-Minecraft-GPU-Fix)** - Production-grade solution to force Minecraft to leverage discrete NVIDIA GPUs under Wayland without breaking XDG specifications.
+* **[Docker-Management-Tool](https://github.com/Rinwikun/Docker-Management-Tool)** - An interactive Bash utility designed specifically for Arch Linux to manage Docker containers with a powerful, built-in Cloudflare Tunnel integration.
 
 ---
 
