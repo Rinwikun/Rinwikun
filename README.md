@@ -46,3 +46,11 @@ A passionate developer and student who loves diving into low-level tweaks, softw
 ## 📫 How to Reach Me
 * 🐙 GitHub: [github.com/Rinwikun](https://github.com/Rinwikun)
 * 💻 Current Workbench Setup: Current Workbench Setup: Dual Boot Lenovo LOQ and Arch Linux & Trae/Project IDX Environments
+
+## ☕ Support My Work
+
+Jika proyek atau panduan yang saya buat membantu menghemat waktu dan meningkatkan performa gaming kamu, silakan apresiasi lewat platform lokal di bawah ini:
+
+[![Trakteer](https://img.shields.io/badge/Trakteer-Traktir%20Coffee-red?style=for-the-badge&logo=coffee&logoColor=white)](https://trakteer.id/username-kamu)
+[![Saweria](https://img.shields.io/badge/Saweria-Support%20Me-orange?style=for-the-badge&logo=heart&logoColor=white)](https://saweria.co/Rinwikun23)
+[![Paypal](https://img.shields.io/badge/Paypal-Support%20Me-orange?style=for-the-badge&logo=heart&logoColor=white)]([https://saweria.co/Rinwikun23](https://paypal.me/Rinwikun))
