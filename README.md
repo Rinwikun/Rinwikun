@@ -51,6 +51,6 @@ A passionate developer and student who loves diving into low-level tweaks, softw
 
 If the projects or guides I created helped save you time and improve your gaming performance, please appreciate them through the local platforms below:
 
-[![Trakteer](https://img.shields.io/badge/Trakteer-Traktir%20Coffee-red?style=for-the-badge&logo=coffee&logoColor=white)](https://trakteer.id/username-kamu)
+[![Trakteer](https://img.shields.io/badge/Trakteer-Traktir%20Coffee-red?style=for-the-badge&logo=coffee&logoColor=white)]([https://trakteer.id/username-kamu](https://trakteer.id/erwin%20wijaya))
 [![Saweria](https://img.shields.io/badge/Saweria-Support%20Me-orange?style=for-the-badge&logo=heart&logoColor=white)](https://saweria.co/Rinwikun23)
 [![Paypal](https://img.shields.io/badge/Paypal-Support%20Me-orange?style=for-the-badge&logo=heart&logoColor=white)](https://paypal.me/Rinwikun)
