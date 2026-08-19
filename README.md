@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rinwi (Rinwikun)
+# 👋 Hello, I'm Rinwikun
 ### 🚀 Developer & Student | Exploring Android, Web, and Linux Systems
 
 A passionate developer and student who loves diving into low-level tweaks, software engineering, and game optimization. Currently building open-source projects, tinkering with Arch Linux configuration trees.
